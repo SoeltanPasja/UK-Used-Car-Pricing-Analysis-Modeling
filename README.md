@@ -27,7 +27,7 @@ The central question this project seeks to address is:
 
 1. **Market Analysis:** To identify key car attributes that correlate with higher resale prices.
 2. **Predictive Modeling:** To build a model that estimates the resale value of used cars based on their attributes.
-3. **Actionable Recommendations:** To help dealerships optimize pricing strategies and inventory management for higher profitability.
+3. **Actionable Recommendations:** To help dealerships optimize marketing and pricing strategies, avoiding underpricing and overpricing.
 
 ---
 
